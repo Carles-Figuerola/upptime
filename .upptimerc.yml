@@ -6,7 +6,7 @@ sites:
   - name: Home
     url: https://ifconfig.figuerola.casa
   - name: IP test
-    url: figuerola.casa
+    url: iptest.figuerola.casa
     port: 80
     check: "tcp-ping"
 
