@@ -1,7 +1,7 @@
 url: $HTTPS_TEST
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-17T16:24:24.608Z
+status: up
+code: 200
+responseTime: 186
+lastUpdated: 2025-07-17T16:33:53.715Z
 startTime: 2025-07-17T15:52:54.037Z
 generator: Upptime <https://github.com/upptime/upptime>
