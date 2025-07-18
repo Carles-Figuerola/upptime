@@ -4,20 +4,18 @@
     "url": "$HTTPS_TEST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home",
-    "status": "down",
-    "uptime": "76.85%",
-    "uptimeDay": "76.85%",
-    "uptimeWeek": "76.85%",
-    "uptimeMonth": "76.85%",
-    "uptimeYear": "76.85%",
-    "time": 213,
-    "timeDay": 213,
-    "timeWeek": 213,
-    "timeMonth": 213,
-    "timeYear": 213,
-    "dailyMinutesDown": {
-      "2025-07-17": 10
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 257,
+    "timeDay": 257,
+    "timeWeek": 257,
+    "timeMonth": 257,
+    "timeYear": 257,
+    "dailyMinutesDown": {}
   },
   {
     "name": "IP test",
@@ -25,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ip-test",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-17": 41
+      "2025-07-18": 123,
+      "2025-07-17": 487
     }
   }
 ]
