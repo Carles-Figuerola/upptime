@@ -4,17 +4,17 @@
     "url": "$HTTPS_TEST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.64%",
-    "time": 538,
-    "timeDay": 582,
-    "timeWeek": 470,
-    "timeMonth": 459,
-    "timeYear": 561,
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "75.89%",
+    "uptimeWeek": "96.56%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "99.57%",
+    "time": 537,
+    "timeDay": 378,
+    "timeWeek": 433,
+    "timeMonth": 450,
+    "timeYear": 560,
     "dailyMinutesDown": {
       "2025-10-07": 36,
       "2025-10-11": 51,
@@ -25,7 +25,8 @@
       "2026-01-22": 33,
       "2026-02-16": 44,
       "2026-09-17": 86,
-      "2026-09-16": 45
+      "2026-09-16": 45,
+      "2026-09-27": 347
     }
   }
 ]
